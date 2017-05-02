@@ -27,16 +27,28 @@ Pathfinder webservice for getting information about various game elements and op
 
 * classes table
     * class_name varchar(?) primary_key
+    * description text
+    * role text
+    * alignment varchar(20)
     * hit_die varchar(5)
+    * starting_wealth varchar(20)
+    * **class_skills table**
+    * base_skill_ranks_per_level tinyint
+    * modified_skill_ranks_per_level varchar(30)
     * base_attack_bonus_progression varchar(10)
     * **class_saving_throws table**
-    * **class_skills table**
     
 * class_saving_throws table
     * class_name varchar(?) primary_key
     * save varchar(10) primary_key
     * progression varchar(10)
     * progression_equation varchar(20)
+    
+* class_features table
+    * class_name varchar(?) primary_key
+    * feature_name varchar(?) primary_key
+    * description
+    * level_granted
     
 * class_skills table
     * class_name varchar(?) primary key
@@ -73,8 +85,6 @@ Pathfinder webservice for getting information about various game elements and op
     * description text
     * **spell_domains table**
     
-    
-    
 * spell_descriptors table
     * spell_name varchar(?) primary_key
     * descriptor varchar(?) primary_key
@@ -89,10 +99,11 @@ Pathfinder webservice for getting information about various game elements and op
     * spell_component varchar(?) primary_key
     
 
-   note: saving throws may need an order(?) column to indicate the order in which saving throws are taken
+   note: may be unnecessary
 * spell_saving_throws table
     * spell_name varchar(?) primary_key
-    * saving_throw varchar(?) primary_key
+    * saving_throw varchar(10) primary_key
+    * saving_throw_order tinyint
     * effect varchar(?)
     
 * spell_domains_table
