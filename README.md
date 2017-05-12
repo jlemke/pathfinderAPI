@@ -23,7 +23,9 @@ Pathfinder webservice for getting information about various game elements and op
     
     
     
-## Database Schema
+# Database Schema
+
+### Class related data
 
 * classes table
     * class_name varchar(?) primary_key
@@ -47,8 +49,8 @@ Pathfinder webservice for getting information about various game elements and op
 * class_features table
     * class_name varchar(?) primary_key
     * feature_name varchar(?) primary_key
-    * description
-    * level_granted
+    * description text
+    * level_granted tinyint
     
 * class_skills table
     * class_name varchar(?) primary key
@@ -110,3 +112,171 @@ Pathfinder webservice for getting information about various game elements and op
     * spell_name varchar(?) primary_key
     * domain_name varchar(?) primary_key
     * spell_level tinyint
+    
+---
+
+### Bestiary
+line  
+1 : name, challenge_rating  
+2 : experience_points  
+3 : race*, class_levels*+  
+4 : alignment, size, type, subtypes*+  
+5 : initiative, senses*+, perception_bonus  
+6*: **aura**
+
+
+* monster
+    * name
+    * challenge_rating
+    * experience_points
+    * race
+    * **monster_class_levels** table
+    * alignment
+    * size
+    * type
+    * **monster_subtypes** table
+    * initiative
+    * **monster_senses** table
+    * perception_bonus
+    * **monster_auras** table
+    * armor_class
+    * touch
+    * flat_footed
+    * **monster_ac_modifiers** table
+    * hit_points
+    * hit_dice
+    * fort_save
+    * ref_save
+    * will_save
+    * **monster_save_modifiers** table
+    * **monster_dr** table
+    * **monster_immunities** table
+    * **monster_resistances** table
+    * **monster_spell_resistance** table
+    * **monster_weaknesses** table
+    * monster_speed
+    * **monster_additional_speeds** table
+    * **monster_melee_attacks** table
+    * **monster_ranged_attacks** table
+    * space
+    * reach  //note : can be conditional
+    * **monster_special_attacks** table
+    * **monster_spell-like_abilities** table
+    * **monster_spells_known** table
+    * **monster_spells_prepared** table
+    * **monster_domain_spells** table
+ 
+ 
+ 
+* monster_class_levels
+    * monster_name
+    * class_name
+    * class_level
+    
+* monster_subtypes
+    * monster_name varchar(50) primary_key
+    * monster_subtype varchar(50) primary_key
+
+* monster_senses
+    * monster_name
+    * sense
+    
+* monster_auras
+    * monster_name
+    * aura
+    * radius
+    * difficulty_class
+    
+* monster_ac_modifiers
+    * monster_name
+    * modifier
+    * type
+    
+* monster_save_modifiers
+    * monster_name
+    * modifier
+    * type
+    * _source table?_
+    
+* monster_defensive_abilities
+    * monster_name
+    * ability
+    
+* monster_dr
+    * monster_name
+    * bypass
+    
+* monster_immunities
+    * monster_name
+    * immunity
+
+* monster_resistances
+    * monster_name
+    * resistance
+    * amount
+   
+* monster_spell_resistance
+    * monster_name
+    * amount
+    
+* monster_weaknesses
+    * monster_name
+    * weakness
+    
+* monster_additional_speeds
+    * monster_name
+    * type
+    * distance
+    * maneuverability
+    
+possibly add way to show 'one or the other' attacks??
+    
+* monster_melee_attacks
+    * monster_name
+    * quantity
+    * attack_name
+    * attack_bonuses
+    * damage_roll
+    * critical_multiplier
+    * critical_range
+    * *attack_index*
+    * *optional*
+  
+* monster_ranged_attacks
+    * monster_name
+    * quantity
+    * attack_name
+    * attack_bonuses
+    * damage_roll
+    * critical_multiplier
+    * critical_range
+    * *attack_index*
+    * *optional*
+  
+* monster_special_attacks
+    * monster_name
+    * special_attack
+  
+* monster_spell-like_abilities
+    * monster_name
+    * ability_source
+    
+
+
+arcane school spell-like abilities
+  3/day
+  
+monster.getSpellLikeAbilitySource[0].abilities[0].getTimesPerDay[];
+  
+ 
+ abilitySource[] > times-per-day[] > spell[]
+ability source
+    times-per-day
+        spell
+        spell
+        spell
+    times-per-day
+        spell
+ability source
+    times-per-day
+        spell
