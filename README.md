@@ -127,6 +127,7 @@ line
 
 * monster
     * name
+    * short_description
     * challenge_rating
     * experience_points
     * race
@@ -154,8 +155,7 @@ line
     * **monster_resistances** table
     * **monster_spell_resistance** table
     * **monster_weaknesses** table
-    * monster_speed
-    * **monster_additional_speeds** table
+    * **monster_speeds** table
     * **monster_melee_attacks** table
     * **monster_ranged_attacks** table
     * space
@@ -164,7 +164,11 @@ line
     * **monster_spell-like_abilities** table
     * **monster_spells_known** table
     * **monster_spells_prepared** table
-    * **monster_domain_spells** table
+    * **monster_domains** table
+    * monster_bloodline
+    * monster_arcane_school
+    * **monster_opposition_schools** table
+    
  
  
  
@@ -223,11 +227,9 @@ line
     * monster_name
     * weakness
     
-* monster_additional_speeds
+* monster_speeds
     * monster_name
-    * type
-    * distance
-    * maneuverability
+    * speed
     
 possibly add way to show 'one or the other' attacks??
     
@@ -259,15 +261,55 @@ possibly add way to show 'one or the other' attacks??
   
 * monster_spell-like_abilities
     * monster_name
-    * ability_source
+    * ability_name
+    * note
+    * source
+    * prd_link
+    * times_per_day
+    * caster_level
+    * concentration_bonus
     
+* monster_spells_known
+    * monster_name
+    * spell_name
+    * spell_level
+    * note
+    * source
+    * prd_link
+    * spells_per_day
+    * caster_level
+    * concentration_bonus
+    * spell_failure_chance
+    
+* monster_spells_prepared
+    * monster_name
+    * spell_name
+    * spell_level
+    * note
+    * source
+    * prd_link
+    * number_prepared
+    * caster_level
+    * concentration_bonus
+    * spell_failure_chance
 
+* monster_domains
+    * monster_name
+    * domain_name
+
+* monster_opposition_schools
+    * monster_name
+    * school_name
 
 arcane school spell-like abilities
   3/day
   
-monster.getSpellLikeAbilitySource[0].abilities[0].getTimesPerDay[];
-  
+  monster.spellLikeAbility[0].allocation
+  monster.spellLikeAbility[0].name
+  monster.spellLikeAbility[0].prdLink
+  monster.spellLikeAbility[0].source
+  monster.spellLikeAbility[0].casterLevel
+  monster.spellLikeAbility[0].concentrationBonus
  
  abilitySource[] > times-per-day[] > spell[]
 ability source
