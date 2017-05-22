@@ -1,0 +1,22 @@
+CREATE TABLE monsters (
+    monster_name VARCHAR(255) NOT NULL,
+    `source` VARCHAR(255) NOT NULL,
+    challenge_rating varchar(4) NOT NULL,
+    cr_decimal decimal(3,3) not null,
+    experience_points int not null,
+    race VARCHAR(50),
+
+    PRIMARY KEY (monster_name, `source`)
+);
+
+CREATE TABLE monster_class_levels (
+    monster_name varchar(255) not null,
+    `source` varchar(255) NOT NULL,
+    class_name varchar(50) not null,
+    class_level tinyint not null default 1,
+    archetype_name varchar(50),
+    PRIMARY KEY (monster_name, `source`, class_name),
+    FOREIGN KEY (monster_name, `source`)
+        references monsters(monster_name, `source`)
+);
+

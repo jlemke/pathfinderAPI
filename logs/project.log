@@ -1,0 +1,635 @@
+2017-05-21 14:54:21,326 0    [main] INFO  logger  - rejected href = classes/barbarian.html#barbarian
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/bard.html#bard
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/cleric.html#cleric
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/druid.html#druid
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/fighter.html#fighter
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/monk.html#monk
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/paladin.html#paladin
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/ranger.html#ranger
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/rogue.html#rogue
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/sorcerer.html#sorcerer
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = classes/wizard.html#wizard
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = prestigeClasses.html
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = /threads/rzs2soys
+2017-05-21 14:54:21,342 16   [main] INFO  logger  - rejected href = /pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/arcanist.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/bloodrager.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/brawler.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/hunter.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/investigator.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/shaman.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/skald.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/slayer.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/swashbuckler.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/advancedClassGuide/classes/warpriest.html
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /threads/rzs2soys
+2017-05-21 14:54:21,467 141  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/unchained/classes/barbarian.html
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/unchained/classes/monk.html
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/unchained/classes/rogue.html
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/unchained/classes/summoner.html
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = #fractional-base-bonuses
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = #staggered-advancement
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = #fractional-bonuses-by-class-level
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = #fractional-bonuses-by-class-level
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = /threads/rzs2soys
+2017-05-21 14:54:21,608 282  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/classes/kineticist.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/classes/medium.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/classes/mesmerist.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/classes/occultist.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/classes/psychic.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/occultAdventures/classes/spiritualist.html
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /threads/rzs2soys
+2017-05-21 14:54:21,717 391  [main] INFO  logger  - rejected href = /pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:57:30,913 0    [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 14:57:30,928 15   [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:57:30,928 15   [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:57:31,053 140  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:57:31,194 281  [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:57:31,194 281  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:57:31,288 375  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:57:31,303 390  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 14:57:31,303 390  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 14:57:31,303 390  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 14:57:31,303 390  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 14:57:31,303 390  [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:57:31,303 390  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:58:09,271 0    [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 14:58:09,287 16   [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:58:09,287 16   [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:58:09,412 141  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:58:09,522 251  [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:58:09,522 251  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 14:58:09,647 376  [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:08:24,646 0    [main] INFO  logger  - Barbarian
+2017-05-21 15:08:24,775 129  [main] INFO  logger  - Bard
+2017-05-21 15:08:25,002 356  [main] INFO  logger  - Cleric
+2017-05-21 15:08:25,123 477  [main] INFO  logger  - Druid
+2017-05-21 15:08:25,232 586  [main] INFO  logger  - Fighter
+2017-05-21 15:08:25,346 700  [main] INFO  logger  - Monk
+2017-05-21 15:08:25,457 811  [main] INFO  logger  - Paladin
+2017-05-21 15:08:25,569 923  [main] INFO  logger  - Ranger
+2017-05-21 15:08:25,680 1034 [main] INFO  logger  - Rogue
+2017-05-21 15:08:25,816 1170 [main] INFO  logger  - Sorcerer
+2017-05-21 15:08:25,933 1287 [main] INFO  logger  - Wizard
+2017-05-21 15:08:25,934 1288 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 15:08:25,934 1288 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:08:25,934 1288 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:08:26,166 1520 [main] INFO  logger  - Arcanist
+2017-05-21 15:08:26,297 1651 [main] INFO  logger  - Bloodrager
+2017-05-21 15:08:26,406 1760 [main] INFO  logger  - Brawler
+2017-05-21 15:08:26,519 1873 [main] INFO  logger  - Hunter
+2017-05-21 15:08:26,634 1988 [main] INFO  logger  - Investigator
+2017-05-21 15:08:26,860 2214 [main] INFO  logger  - Shaman
+2017-05-21 15:08:26,981 2335 [main] INFO  logger  - Skald
+2017-05-21 15:08:27,086 2440 [main] INFO  logger  - Slayer
+2017-05-21 15:08:27,192 2546 [main] INFO  logger  - Swashbuckler
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - Warpriest
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:08:27,307 2661 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 15:08:27,308 2662 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:08:27,308 2662 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:08:27,308 2662 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:08:27,308 2662 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:08:27,531 2885 [main] INFO  logger  - Barbarian
+2017-05-21 15:08:27,655 3009 [main] INFO  logger  - Monk
+2017-05-21 15:08:27,765 3119 [main] INFO  logger  - Rogue
+2017-05-21 15:08:27,896 3250 [main] INFO  logger  - Summoner Evolutions
+2017-05-21 15:08:28,002 3356 [main] INFO  logger  - Introduction
+2017-05-21 15:08:28,113 3467 [main] INFO  logger  - Introduction
+2017-05-21 15:08:28,219 3573 [main] INFO  logger  - Introduction
+2017-05-21 15:08:28,324 3678 [main] INFO  logger  - Introduction
+2017-05-21 15:08:28,326 3680 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:08:28,326 3680 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:08:28,431 3785 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 15:08:28,567 3921 [main] INFO  logger  - Kineticist
+2017-05-21 15:08:28,685 4039 [main] INFO  logger  - Medium
+2017-05-21 15:08:28,804 4158 [main] INFO  logger  - Mesmerist
+2017-05-21 15:08:28,935 4289 [main] INFO  logger  - Occultist
+2017-05-21 15:08:29,202 4556 [main] INFO  logger  - Psychic
+2017-05-21 15:08:29,334 4688 [main] INFO  logger  - Spiritualist
+2017-05-21 15:08:29,334 4688 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 15:08:29,335 4689 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:08:29,335 4689 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 15:08:29,335 4689 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:08:29,335 4689 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:08:29,335 4689 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:08:29,335 4689 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:08:29,336 4690 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:11:02,549 0    [main] INFO  logger  - Barbarian
+2017-05-21 15:11:02,674 125  [main] INFO  logger  - Bard
+2017-05-21 15:11:02,909 360  [main] INFO  logger  - Cleric
+2017-05-21 15:11:03,034 485  [main] INFO  logger  - Druid
+2017-05-21 15:11:03,159 610  [main] INFO  logger  - Fighter
+2017-05-21 15:11:03,268 719  [main] INFO  logger  - Monk
+2017-05-21 15:11:03,378 829  [main] INFO  logger  - Paladin
+2017-05-21 15:11:03,502 953  [main] INFO  logger  - Ranger
+2017-05-21 15:11:03,628 1079 [main] INFO  logger  - Rogue
+2017-05-21 15:11:03,862 1313 [main] INFO  logger  - Sorcerer
+2017-05-21 15:11:03,987 1438 [main] INFO  logger  - Wizard
+2017-05-21 15:11:03,987 1438 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 15:11:03,987 1438 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:11:03,987 1438 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:11:04,221 1672 [main] INFO  logger  - Arcanist
+2017-05-21 15:11:04,331 1782 [main] INFO  logger  - Bloodrager
+2017-05-21 15:11:04,440 1891 [main] INFO  logger  - Brawler
+2017-05-21 15:11:04,550 2001 [main] INFO  logger  - Hunter
+2017-05-21 15:11:04,659 2110 [main] INFO  logger  - Investigator
+2017-05-21 15:11:04,893 2344 [main] INFO  logger  - Shaman
+2017-05-21 15:11:05,003 2454 [main] INFO  logger  - Skald
+2017-05-21 15:11:05,112 2563 [main] INFO  logger  - Slayer
+2017-05-21 15:11:05,221 2672 [main] INFO  logger  - Swashbuckler
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - Warpriest
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:11:05,346 2797 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:11:05,565 3016 [main] INFO  logger  - Barbarian
+2017-05-21 15:11:05,690 3141 [main] INFO  logger  - Monk
+2017-05-21 15:11:05,800 3251 [main] INFO  logger  - Rogue
+2017-05-21 15:11:05,925 3376 [main] INFO  logger  - Summoner Evolutions
+2017-05-21 15:11:06,034 3485 [main] INFO  logger  - Introduction
+2017-05-21 15:11:06,143 3594 [main] INFO  logger  - Introduction
+2017-05-21 15:11:06,237 3688 [main] INFO  logger  - Introduction
+2017-05-21 15:11:06,347 3798 [main] INFO  logger  - Introduction
+2017-05-21 15:11:06,347 3798 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:11:06,347 3798 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:11:06,456 3907 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 15:11:06,597 4048 [main] INFO  logger  - Kineticist
+2017-05-21 15:11:06,704 4155 [main] INFO  logger  - Medium
+2017-05-21 15:11:06,829 4280 [main] INFO  logger  - Mesmerist
+2017-05-21 15:11:06,955 4406 [main] INFO  logger  - Occultist
+2017-05-21 15:11:07,095 4546 [main] INFO  logger  - Psychic
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - Spiritualist
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:11:07,220 4671 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:15:50,041 0    [main] INFO  logger  - Barbarian
+2017-05-21 15:15:50,166 125  [main] INFO  logger  - Bard
+2017-05-21 15:15:50,400 359  [main] INFO  logger  - Cleric
+2017-05-21 15:15:50,525 484  [main] INFO  logger  - Druid
+2017-05-21 15:15:50,635 594  [main] INFO  logger  - Fighter
+2017-05-21 15:15:50,760 719  [main] INFO  logger  - Monk
+2017-05-21 15:15:50,869 828  [main] INFO  logger  - Paladin
+2017-05-21 15:15:50,979 938  [main] INFO  logger  - Ranger
+2017-05-21 15:15:51,088 1047 [main] INFO  logger  - Rogue
+2017-05-21 15:15:51,209 1168 [main] INFO  logger  - Sorcerer
+2017-05-21 15:15:51,318 1277 [main] INFO  logger  - Wizard
+2017-05-21 15:15:51,318 1277 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 15:15:51,318 1277 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:15:51,334 1293 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:15:51,568 1527 [main] INFO  logger  - Arcanist
+2017-05-21 15:15:51,694 1653 [main] INFO  logger  - Bloodrager
+2017-05-21 15:15:51,803 1762 [main] INFO  logger  - Brawler
+2017-05-21 15:15:51,912 1871 [main] INFO  logger  - Hunter
+2017-05-21 15:15:52,041 2000 [main] INFO  logger  - Investigator
+2017-05-21 15:15:52,264 2223 [main] INFO  logger  - Shaman
+2017-05-21 15:15:52,373 2332 [main] INFO  logger  - Skald
+2017-05-21 15:15:52,483 2442 [main] INFO  logger  - Slayer
+2017-05-21 15:15:52,592 2551 [main] INFO  logger  - Swashbuckler
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - Warpriest
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:15:52,717 2676 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:15:52,936 2895 [main] INFO  logger  - Barbarian
+2017-05-21 15:15:53,049 3008 [main] INFO  logger  - Monk
+2017-05-21 15:15:53,158 3117 [main] INFO  logger  - Rogue
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - Summoner Evolutions
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-base-bonuses
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#staggered-advancement
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:15:53,283 3242 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:15:53,393 3352 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 15:15:53,518 3477 [main] INFO  logger  - Kineticist
+2017-05-21 15:15:53,642 3601 [main] INFO  logger  - Medium
+2017-05-21 15:15:53,767 3726 [main] INFO  logger  - Mesmerist
+2017-05-21 15:15:53,908 3867 [main] INFO  logger  - Occultist
+2017-05-21 15:15:54,052 4011 [main] INFO  logger  - Psychic
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - Spiritualist
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:15:54,177 4136 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:20:55,398 0    [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/barbarian.html#barbarian
+2017-05-21 15:20:55,541 143  [main] INFO  logger  - Barbarian
+2017-05-21 15:20:55,541 143  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/bard.html#bard
+2017-05-21 15:20:55,672 274  [main] INFO  logger  - Bard
+2017-05-21 15:20:55,673 275  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/cleric.html#cleric
+2017-05-21 15:20:55,906 508  [main] INFO  logger  - Cleric
+2017-05-21 15:20:55,907 509  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/druid.html#druid
+2017-05-21 15:20:56,042 644  [main] INFO  logger  - Druid
+2017-05-21 15:20:56,043 645  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/fighter.html#fighter
+2017-05-21 15:20:56,155 757  [main] INFO  logger  - Fighter
+2017-05-21 15:20:56,155 757  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/monk.html#monk
+2017-05-21 15:20:56,272 874  [main] INFO  logger  - Monk
+2017-05-21 15:20:56,273 875  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/paladin.html#paladin
+2017-05-21 15:20:56,390 992  [main] INFO  logger  - Paladin
+2017-05-21 15:20:56,390 992  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/ranger.html#ranger
+2017-05-21 15:20:56,507 1109 [main] INFO  logger  - Ranger
+2017-05-21 15:20:56,507 1109 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/rogue.html#rogue
+2017-05-21 15:20:56,625 1227 [main] INFO  logger  - Rogue
+2017-05-21 15:20:56,625 1227 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/sorcerer.html#sorcerer
+2017-05-21 15:20:56,757 1359 [main] INFO  logger  - Sorcerer
+2017-05-21 15:20:56,757 1359 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/wizard.html#wizard
+2017-05-21 15:20:56,881 1483 [main] INFO  logger  - Wizard
+2017-05-21 15:20:56,881 1483 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 15:20:56,881 1483 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:20:56,881 1483 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:20:57,002 1604 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/arcanist.html
+2017-05-21 15:20:57,141 1743 [main] INFO  logger  - Arcanist
+2017-05-21 15:20:57,142 1744 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/bloodrager.html
+2017-05-21 15:20:57,270 1872 [main] INFO  logger  - Bloodrager
+2017-05-21 15:20:57,270 1872 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/brawler.html
+2017-05-21 15:20:57,379 1981 [main] INFO  logger  - Brawler
+2017-05-21 15:20:57,379 1981 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/hunter.html
+2017-05-21 15:20:57,489 2091 [main] INFO  logger  - Hunter
+2017-05-21 15:20:57,489 2091 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/investigator.html
+2017-05-21 15:20:57,593 2195 [main] INFO  logger  - Investigator
+2017-05-21 15:20:57,593 2195 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/shaman.html
+2017-05-21 15:20:57,838 2440 [main] INFO  logger  - Shaman
+2017-05-21 15:20:57,838 2440 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/skald.html
+2017-05-21 15:20:57,952 2554 [main] INFO  logger  - Skald
+2017-05-21 15:20:57,952 2554 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/slayer.html
+2017-05-21 15:20:58,082 2684 [main] INFO  logger  - Slayer
+2017-05-21 15:20:58,082 2684 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/swashbuckler.html
+2017-05-21 15:20:58,192 2794 [main] INFO  logger  - Swashbuckler
+2017-05-21 15:20:58,192 2794 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/warpriest.html
+2017-05-21 15:20:58,301 2903 [main] INFO  logger  - Warpriest
+2017-05-21 15:20:58,301 2903 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:20:58,301 2903 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:20:58,301 2903 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:20:58,317 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:20:58,424 3026 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/barbarian.html
+2017-05-21 15:20:58,537 3139 [main] INFO  logger  - Barbarian
+2017-05-21 15:20:58,537 3139 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/monk.html
+2017-05-21 15:20:58,653 3255 [main] INFO  logger  - Monk
+2017-05-21 15:20:58,654 3256 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/rogue.html
+2017-05-21 15:20:58,762 3364 [main] INFO  logger  - Rogue
+2017-05-21 15:20:58,762 3364 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/summoner.html
+2017-05-21 15:20:58,894 3496 [main] INFO  logger  - Summoner Evolutions
+2017-05-21 15:20:58,895 3497 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-base-bonuses
+2017-05-21 15:20:58,895 3497 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#staggered-advancement
+2017-05-21 15:20:58,897 3499 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:20:58,897 3499 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:20:58,898 3500 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:20:58,898 3500 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:20:59,000 3602 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 15:20:59,000 3602 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/kineticist.html
+2017-05-21 15:20:59,137 3739 [main] INFO  logger  - Kineticist
+2017-05-21 15:20:59,137 3739 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/medium.html
+2017-05-21 15:20:59,257 3859 [main] INFO  logger  - Medium
+2017-05-21 15:20:59,257 3859 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/mesmerist.html
+2017-05-21 15:20:59,369 3971 [main] INFO  logger  - Mesmerist
+2017-05-21 15:20:59,369 3971 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/occultist.html
+2017-05-21 15:20:59,498 4100 [main] INFO  logger  - Occultist
+2017-05-21 15:20:59,514 4116 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/psychic.html
+2017-05-21 15:20:59,741 4343 [main] INFO  logger  - Psychic
+2017-05-21 15:20:59,742 4344 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/spiritualist.html
+2017-05-21 15:20:59,872 4474 [main] INFO  logger  - Spiritualist
+2017-05-21 15:20:59,872 4474 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 15:20:59,872 4474 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:20:59,872 4474 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 15:20:59,872 4474 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:20:59,873 4475 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:20:59,873 4475 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:20:59,873 4475 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:20:59,873 4475 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:20:59,873 4475 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:20:59,874 4476 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:20:59,874 4476 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:20:59,874 4476 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:20:59,874 4476 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 15:20:59,874 4476 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:20:59,874 4476 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:20:59,875 4477 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:24:12,886 0    [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/barbarian.html#barbarian
+2017-05-21 15:24:13,026 140  [main] INFO  logger  - Barbarian
+2017-05-21 15:24:13,027 141  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/bard.html#bard
+2017-05-21 15:24:13,152 266  [main] INFO  logger  - Bard
+2017-05-21 15:24:13,152 266  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/cleric.html#cleric
+2017-05-21 15:24:13,391 505  [main] INFO  logger  - Cleric
+2017-05-21 15:24:13,392 506  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/druid.html#druid
+2017-05-21 15:24:13,521 635  [main] INFO  logger  - Druid
+2017-05-21 15:24:13,521 635  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/fighter.html#fighter
+2017-05-21 15:24:13,634 748  [main] INFO  logger  - Fighter
+2017-05-21 15:24:13,635 749  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/monk.html#monk
+2017-05-21 15:24:13,757 871  [main] INFO  logger  - Monk
+2017-05-21 15:24:13,758 872  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/paladin.html#paladin
+2017-05-21 15:24:13,872 986  [main] INFO  logger  - Paladin
+2017-05-21 15:24:13,872 986  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/ranger.html#ranger
+2017-05-21 15:24:13,987 1101 [main] INFO  logger  - Ranger
+2017-05-21 15:24:13,987 1101 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/rogue.html#rogue
+2017-05-21 15:24:14,104 1218 [main] INFO  logger  - Rogue
+2017-05-21 15:24:14,105 1219 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/sorcerer.html#sorcerer
+2017-05-21 15:24:14,319 1433 [main] INFO  logger  - Sorcerer
+2017-05-21 15:24:14,319 1433 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/wizard.html#wizard
+2017-05-21 15:24:14,442 1556 [main] INFO  logger  - Wizard
+2017-05-21 15:24:14,443 1557 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 15:24:14,443 1557 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:24:14,443 1557 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:24:14,565 1679 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/arcanist.html
+2017-05-21 15:24:14,683 1797 [main] INFO  logger  - Arcanist
+2017-05-21 15:24:14,684 1798 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/bloodrager.html
+2017-05-21 15:24:14,812 1926 [main] INFO  logger  - Bloodrager
+2017-05-21 15:24:14,812 1926 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/brawler.html
+2017-05-21 15:24:14,920 2034 [main] INFO  logger  - Brawler
+2017-05-21 15:24:14,920 2034 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/hunter.html
+2017-05-21 15:24:15,029 2143 [main] INFO  logger  - Hunter
+2017-05-21 15:24:15,029 2143 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/investigator.html
+2017-05-21 15:24:15,137 2251 [main] INFO  logger  - Investigator
+2017-05-21 15:24:15,137 2251 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/shaman.html
+2017-05-21 15:24:15,358 2472 [main] INFO  logger  - Shaman
+2017-05-21 15:24:15,359 2473 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/skald.html
+2017-05-21 15:24:15,468 2582 [main] INFO  logger  - Skald
+2017-05-21 15:24:15,468 2582 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/slayer.html
+2017-05-21 15:24:15,574 2688 [main] INFO  logger  - Slayer
+2017-05-21 15:24:15,574 2688 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/swashbuckler.html
+2017-05-21 15:24:15,680 2794 [main] INFO  logger  - Swashbuckler
+2017-05-21 15:24:15,680 2794 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/warpriest.html
+2017-05-21 15:24:15,805 2919 [main] INFO  logger  - Warpriest
+2017-05-21 15:24:15,805 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:24:15,805 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:24:15,805 2919 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:24:15,806 2920 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:24:15,807 2921 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:24:15,915 3029 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/barbarian.html
+2017-05-21 15:24:16,027 3141 [main] INFO  logger  - Barbarian
+2017-05-21 15:24:16,028 3142 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/monk.html
+2017-05-21 15:24:16,148 3262 [main] INFO  logger  - Monk
+2017-05-21 15:24:16,149 3263 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/rogue.html
+2017-05-21 15:24:16,256 3370 [main] INFO  logger  - Rogue
+2017-05-21 15:24:16,257 3371 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/summoner.html
+2017-05-21 15:24:16,385 3499 [main] INFO  logger  - Summoner Evolutions
+2017-05-21 15:24:16,385 3499 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-base-bonuses
+2017-05-21 15:24:16,386 3500 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#staggered-advancement
+2017-05-21 15:24:16,387 3501 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:24:16,387 3501 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:24:16,388 3502 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:24:16,388 3502 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:24:16,492 3606 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 15:24:16,492 3606 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/kineticist.html
+2017-05-21 15:24:16,629 3743 [main] INFO  logger  - Kineticist
+2017-05-21 15:24:16,630 3744 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/medium.html
+2017-05-21 15:24:16,753 3867 [main] INFO  logger  - Medium
+2017-05-21 15:24:16,753 3867 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/mesmerist.html
+2017-05-21 15:24:16,914 4028 [main] INFO  logger  - Mesmerist
+2017-05-21 15:24:16,914 4028 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/occultist.html
+2017-05-21 15:24:17,051 4165 [main] INFO  logger  - Occultist
+2017-05-21 15:24:17,052 4166 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/psychic.html
+2017-05-21 15:24:17,205 4319 [main] INFO  logger  - Psychic
+2017-05-21 15:24:17,205 4319 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/spiritualist.html
+2017-05-21 15:24:17,335 4449 [main] INFO  logger  - Spiritualist
+2017-05-21 15:24:17,335 4449 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 15:24:17,335 4449 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:24:17,335 4449 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:24:17,336 4450 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:24:17,337 4451 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 15:24:17,337 4451 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:24:17,337 4451 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:24:17,337 4451 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:25:35,419 0    [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/barbarian.html#barbarian
+2017-05-21 15:25:35,560 141  [main] INFO  logger  - Barbarian
+2017-05-21 15:25:35,560 141  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/bard.html#bard
+2017-05-21 15:25:35,685 266  [main] INFO  logger  - Bard
+2017-05-21 15:25:35,685 266  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/cleric.html#cleric
+2017-05-21 15:25:35,903 484  [main] INFO  logger  - Cleric
+2017-05-21 15:25:35,903 484  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/druid.html#druid
+2017-05-21 15:25:36,028 609  [main] INFO  logger  - Druid
+2017-05-21 15:25:36,028 609  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/fighter.html#fighter
+2017-05-21 15:25:36,138 719  [main] INFO  logger  - Fighter
+2017-05-21 15:25:36,138 719  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/monk.html#monk
+2017-05-21 15:25:36,263 844  [main] INFO  logger  - Monk
+2017-05-21 15:25:36,263 844  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/paladin.html#paladin
+2017-05-21 15:25:36,372 953  [main] INFO  logger  - Paladin
+2017-05-21 15:25:36,372 953  [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/ranger.html#ranger
+2017-05-21 15:25:36,482 1063 [main] INFO  logger  - Ranger
+2017-05-21 15:25:36,482 1063 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/rogue.html#rogue
+2017-05-21 15:25:36,591 1172 [main] INFO  logger  - Rogue
+2017-05-21 15:25:36,591 1172 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/sorcerer.html#sorcerer
+2017-05-21 15:25:36,716 1297 [main] INFO  logger  - Sorcerer
+2017-05-21 15:25:36,716 1297 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/coreRulebook/classes/wizard.html#wizard
+2017-05-21 15:25:36,841 1422 [main] INFO  logger  - Wizard
+2017-05-21 15:25:36,841 1422 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/prestigeClasses.html
+2017-05-21 15:25:36,841 1422 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:25:36,841 1422 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:25:36,950 1531 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/arcanist.html
+2017-05-21 15:25:37,060 1641 [main] INFO  logger  - Arcanist
+2017-05-21 15:25:37,060 1641 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/bloodrager.html
+2017-05-21 15:25:37,200 1781 [main] INFO  logger  - Bloodrager
+2017-05-21 15:25:37,200 1781 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/brawler.html
+2017-05-21 15:25:37,310 1891 [main] INFO  logger  - Brawler
+2017-05-21 15:25:37,310 1891 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/hunter.html
+2017-05-21 15:25:37,424 2005 [main] INFO  logger  - Hunter
+2017-05-21 15:25:37,424 2005 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/investigator.html
+2017-05-21 15:25:37,533 2114 [main] INFO  logger  - Investigator
+2017-05-21 15:25:37,533 2114 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/shaman.html
+2017-05-21 15:25:37,752 2333 [main] INFO  logger  - Shaman
+2017-05-21 15:25:37,752 2333 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/skald.html
+2017-05-21 15:25:37,861 2442 [main] INFO  logger  - Skald
+2017-05-21 15:25:37,861 2442 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/slayer.html
+2017-05-21 15:25:37,971 2552 [main] INFO  logger  - Slayer
+2017-05-21 15:25:37,971 2552 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/swashbuckler.html
+2017-05-21 15:25:38,080 2661 [main] INFO  logger  - Swashbuckler
+2017-05-21 15:25:38,080 2661 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/advancedClassGuide/classes/warpriest.html
+2017-05-21 15:25:38,205 2786 [main] INFO  logger  - Warpriest
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/perception.html#perception
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/stealth.html#stealth
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:25:38,221 2802 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:25:38,324 2905 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/barbarian.html
+2017-05-21 15:25:38,433 3014 [main] INFO  logger  - Barbarian
+2017-05-21 15:25:38,433 3014 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/monk.html
+2017-05-21 15:25:38,543 3124 [main] INFO  logger  - Monk
+2017-05-21 15:25:38,543 3124 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/rogue.html
+2017-05-21 15:25:38,667 3248 [main] INFO  logger  - Rogue
+2017-05-21 15:25:38,667 3248 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/unchained/classes/summoner.html
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - Summoner
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-base-bonuses
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#staggered-advancement
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/unchained/classes/index.html#fractional-bonuses-by-class-level
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:25:38,808 3389 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-05-21 15:25:38,902 3483 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/occultAdventures/psychicMagic.html
+2017-05-21 15:25:38,902 3483 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/kineticist.html
+2017-05-21 15:25:39,045 3626 [main] INFO  logger  - Kineticist
+2017-05-21 15:25:39,045 3626 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/medium.html
+2017-05-21 15:25:39,170 3751 [main] INFO  logger  - Medium
+2017-05-21 15:25:39,170 3751 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/mesmerist.html
+2017-05-21 15:25:39,299 3880 [main] INFO  logger  - Mesmerist
+2017-05-21 15:25:39,299 3880 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/occultist.html
+2017-05-21 15:25:39,440 4021 [main] INFO  logger  - Occultist
+2017-05-21 15:25:39,440 4021 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/psychic.html
+2017-05-21 15:25:39,565 4146 [main] INFO  logger  - Psychic
+2017-05-21 15:25:39,565 4146 [main] INFO  logger  - Scraping page : http://paizo.com/pathfinderRPG/prd/occultAdventures/classes/spiritualist.html
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - Spiritualist
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/appraise.html#appraise
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/acrobatics.html#acrobatics
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/bluff.html#bluff
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/diplomacy.html#diplomacy
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
+2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
