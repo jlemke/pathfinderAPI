@@ -1,7 +1,5 @@
 package entity.monster;
 
-import org.hibernate.annotations.Table;
-
 import javax.persistence.*;
 import java.util.List;
 
@@ -18,11 +16,11 @@ public class Monster {
     @Column(name = "monster_name", nullable=false)
     private String monsterName;
     @Id
-    @Column(name = "source")
+    @Column(name = "`source`")
     private String source;
 
     @Column(name = "visual_description")
-    private String visualDescription
+    private String visualDescription;
 
     @Column(name = "challenge_rating")
     private double cr;

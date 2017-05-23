@@ -1,15 +1,28 @@
-CREATE TABLE monsters (
+CREATE TABLE monster (
     monster_name VARCHAR(255) NOT NULL,
     `source` VARCHAR(255) NOT NULL,
     challenge_rating varchar(4) NOT NULL,
     cr_decimal decimal(3,3) not null,
     experience_points int not null,
     race VARCHAR(50),
+    alignment VARCHAR(50),
+    size VARCHAR(25),
+    type VARCHAR(80),
+    initiative smallint not null default 0,
+    perception smallint not null default 0,
+    armor_class smallint not null default 10,
+    touch smallint not null default 10,
+    flat_footed smallint not null default 10,
+    hit_points smallint not null default 0,
+    hit_die varchar(50) not null,
+    fort_save smallint not null default 0,
+    ref_save smallint not null default 0,
+    will_save smallint not null default 0,
 
     PRIMARY KEY (monster_name, `source`)
 );
 
-CREATE TABLE monster_class_levels (
+CREATE TABLE monster_class_level (
     monster_name varchar(255) not null,
     `source` varchar(255) NOT NULL,
     class_name varchar(50) not null,
@@ -20,3 +33,51 @@ CREATE TABLE monster_class_levels (
         references monsters(monster_name, `source`)
 );
 
+CREATE TABLE monster_subtype (
+    monster_name varchar(255) not null,
+    `source` varchar(255) not null,
+    subtype VARCHAR(25) not null,
+    PRIMARY KEY (monster_name, `source`, subtype),
+    FOREIGN KEY (monster_name, `source`)
+        references monsters(monster_name, `source`)
+);
+
+CREATE TABLE monster_sense (
+   monster_name varchar(255) not null,
+   `source` varchar(255) not null,
+   sense varchar(50) not null,
+   distance smallint,
+   PRIMARY KEY (monster_name, `source`, sense),
+   FOREIGN KEY (monster_name, `source`)
+       references monsters(monster_name, `source`)
+);
+
+CREATE TABLE monster_aura (
+    monster_name varchar(255) not null,
+   `source` varchar(255) not null,
+   aura varchar(50) not null,
+   note varchar(500),
+   PRIMARY KEY (monster_name, `source`, aura),
+   FOREIGN KEY (monster_name, `source`)
+       references monsters(monster_name, `source`)
+);
+
+CREATE TABLE monster_ac_modifiers (
+    monster_name varchar(255) not null,
+   `source` varchar(255) not null,
+   not varchar(100) not null,
+   bonus smallint not null default 0
+   PRIMARY KEY (monster_name, `source`, modifier),
+   FOREIGN KEY (monster_name, `source`)
+       references monsters(monster_name, `source`)
+);
+
+CREATE TABLE monster_save_modifiers (
+    monster_name varchar(255) not null,
+   `source` varchar(255) not null,
+   note varchar(100) not null,
+   bonus smallint not null default 0
+   PRIMARY KEY (monster_name, `source`, modifier),
+   FOREIGN KEY (monster_name, `source`)
+       references monsters(monster_name, `source`)
+);
