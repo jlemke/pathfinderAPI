@@ -14,6 +14,7 @@ CREATE TABLE monster (
     flat_footed smallint not null default 10,
     hit_points smallint not null default 0,
     hit_die varchar(50) not null,
+    hit_point_bonus smallint,
     fort_save smallint not null default 0,
     ref_save smallint not null default 0,
     will_save smallint not null default 0,
@@ -140,5 +141,21 @@ CREATE TABLE monster_speed (
     speed_name varchar(100) not null,
     distance smallint default 0,
     note varchar(100),
-
+    PRIMARY KEY (monster_name, weakness),
+    FOREIGN KEY (monster_name)
+           references monster(monster_name)
 );
+
+CREATE TABLE monster_attacks (
+    monster_name varchar(255) not null,
+    quantity tinyint default 1,
+    enhancement_bonus tinyint default 0,
+    weapon_name varchar(255) not null,
+    attack_bonus varchar(30) default 'missing',
+    damage_roll varchar(20) not null,
+    damage_bonus smallint default 0,
+    critical_range varchar(5) default 20,
+    critical_multiplier varchar(2) default 'x2',
+    note varchar(255),
+
+)

@@ -58,7 +58,7 @@ public class ExcelToMysql {
                     cells.get(2); //xp
                     cells.get(3); //race
                     cells.get(4); //class string, delimited by /, archetype in (), may include deity
-                    // 5 = Monster source, but not very useful
+                    // 5 = Monster source, but not very useful (?)
                     cells.get(6); //alignment
                     cells.get(7); //size
                     cells.get(8); //type
@@ -67,7 +67,51 @@ public class ExcelToMysql {
                     cells.get(11); //senses!
                     //dragon senses: add darkvision 120ft. and blindsense 60ft.
 
+                    /*
+                        Feats :
+                        separated by ,
+                        Improved Critical(bite)
+                        Improved Critical (bite, gore, and claws)
+                        Skill Focus (Knowledge[religion])
+                        Improved InitiativeM
+                        Combat CastingB
+                        Improved Sunder[M]
+                        Dazing AssaultB APG
+                     */
 
+                    //weapon dismantling!
+                    /*
+                        split weapons into their own strings
+                        check how many weapons
+                        check for feats:
+
+                            Weapon Finesse, Multiattack,
+                        split the weapon into its components:
+                        (enhancement bonus,
+                        weapon name,
+                        touch attack?,
+                        attack bonus
+
+                        )
+                        determine whether it is a primary or secondary
+                        primary = bite, claw, gore, slam, sting, talons
+                        other = secondary
+
+                        calculatedBonus =
+                        BAB + sizeMod + Math.floor((strScore-10)/2)
+                        BAB + sizeMod + Math.floor((dexScore-10)/2)
+                        actualBonus - calculatedBonus = miscMod
+
+                        calculatedDamage = Math.floor((strScore-10)/2)
+
+                     */
+
+
+                    /*
+                        special attack regex (split on this)
+                        [a-zA-Z][a-zA-Z ]+(\([^\(\)]+\))*
+                        split on \([^\(\)]+\) for NOTE
+                     */
 
                 }
 
