@@ -130,4 +130,11 @@ public class ExcelToMysql {
         return monstersSkipped;
     }
 
+
+    public ArrayList<String> normalizeSpellList(String excelFilePath) {
+        ArrayList<String> spellsSkipped = new ArrayList<String>();
+
+        return spellsSkipped;
+    };
+
 }
