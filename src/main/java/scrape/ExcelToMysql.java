@@ -113,6 +113,15 @@ public class ExcelToMysql {
                         split on \([^\(\)]+\) for NOTE
                      */
 
+                    /*
+                        Spell-Like Abilities
+                        String spellLikeStr = cells.get(36);
+                        if (!spellLikeStr.equals("")) {
+                            String[] spellLikeArray = cells.get(36).split("([A-Z][A-Za-z\-]+ )*Spell-Like Abilities");
+                            //still need to get ability sources!
+                        }
+                     */
+
                 }
 
                 workbook.close();

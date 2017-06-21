@@ -633,3 +633,6 @@
 2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/coreRulebook/skills/useMagicDevice.html#use-magic-device
 2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/threads/rzs2soys
 2017-05-21 15:25:39,690 4271 [main] INFO  logger  - rejected href = http://paizo.com/pathfinderRPG/prd/openGameLicense.html
+2017-06-21 02:32:09,220 0    [main] INFO  logger  - 
+2017-06-21 02:32:09,236 16   [main] INFO  logger  -  (CL 1st; concentration +4)  3/day-dancing lights   
+2017-06-21 02:32:09,236 16   [main] INFO  logger  -  (CL 1st; concentration +4)  6/day-laughing touch

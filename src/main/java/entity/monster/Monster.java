@@ -34,6 +34,8 @@ public class Monster {
     @OneToMany(mappedBy = "monster")
     private List<MonsterClassLevel> monsterClassLevels;
 
+    /*
     @Column(name = "")
     private
+    */
 }
